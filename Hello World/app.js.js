@@ -1,1 +1,2 @@
-console.log("Hello World!");
+var whoTogreet = "World";
+console.log("Hello " + whoTogreet +"!");
