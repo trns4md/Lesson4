@@ -1,4 +1,7 @@
-for (var i =0; i<10; i++)
-    {
-    console.log("Hello, World!");
+var whoTogreet = "Eva";
+var N = 12
+for(var i =0; i < N; i++)
+if(i % 2 !=0)
+{
+        console.log(i +" Hello " + whoTogreet + "!");
     }
